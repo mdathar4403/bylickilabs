@@ -9,7 +9,9 @@ Thank you for visiting my profile
 - 📫 The best way to reach me is via Keybase
 - ⚡ Fun fact: I flew to the moon, Jupiter and Mars with my reflecting telescope
 ### Contact:
+Private Website
 - https://www.bylickilabs.de
+Other websites...
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
 - https://www.twitch.tv/dondada1703
