@@ -9,13 +9,11 @@ Thank you for visiting my profile
 - ⚡ Fun fact: I flew to the moon, Jupiter and Mars with my reflecting telescope
 
 ### Contact:
-- https://github.com/bylickilabs
 - https://keybase.io/bylickilabs
+- https://github.com/bylickilabs
 - https://www.twitch.tv/dondada1703
 - https://www.tiktok.com/@dondada_1703
-- https://keybase.io/bylickilabs
-
-
+- https://soundcloud.com/don-dada-1703
 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
