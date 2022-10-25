@@ -1,5 +1,7 @@
-### Hi there 👋, ### Hi Githuber 👋
-Thank you for visiting my profile
+### Hi there 👋, 
+### Hi Githuber 👋
+### Thank you for visiting my profile
+----
 - 🔭 I'm a software developer working on many projects.
 - 🕵️‍♀️ I'll finish it 100%
 - 🧸 I am very proud of my work
