@@ -1,12 +1,12 @@
 ### Hi there 👋
 ### Hi Githuber 👋
 ----------
-- 🔭 Ich bin ein Softwareentwickler, der an vielen Projekten Arbeitet.
-- 🕵️‍♀️ Ich bringe es zu 100% zu Ende
-- 🧸 Ich bin sehr stolz auf meine Arbeiten
-- 🧑‍💻 Ich Liebe es zu Programmieren
-- 📫 Am besten erreichst du mich über Keybase
-- ⚡ Fun Fact: Mit meinem Spiegelteleskop bin ich zum Mond geflogen, zum Jupiter und zum Mars
+- 🔭 I'm a software developer working on many projects.
+- 🕵️‍♀️ I'll finish it 100%
+- 🧸 I am very proud of my work
+- 🧑‍💻 I love programming
+- 📫 The best way to reach me is via Keybase
+- ⚡ Fun fact: I flew to the moon, Jupiter and Mars with my reflecting telescope
 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
