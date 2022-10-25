@@ -6,10 +6,8 @@ Thank you for visiting my profile
 - 🕵️‍♀️ I'll finish it 100%
 - 🧸 I am very proud of my work
 - 🧑‍💻 I love programming
-- 📫 The best way to reach me is via Keybase
+- 📫 To contact me use one of the links below
 - ⚡ Fun fact: I flew to the moon, Jupiter and Mars with my reflecting telescope
-----
-To contact me use one of the links below
 ### Private Website
 - https://www.bylickilabs.de
 ### Other websites
