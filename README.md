@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi Githuber 👋/play yeah
+### Hi Githuber 👋
 
 - 🔭 I'm a software developer working on many projects.
 - 🕵️‍♀️ I'll finish it 100%
