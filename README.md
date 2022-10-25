@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Hi Githuber 👋
-
+Thank you for visiting my profile
 - 🔭 I'm a software developer working on many projects.
 - 🕵️‍♀️ I'll finish it 100%
 - 🧸 I am very proud of my work
@@ -10,6 +10,10 @@
 
 ### Contact:
 - https://github.com/bylickilabs
+- https://keybase.io/bylickilabs
+- https://www.twitch.tv/dondada1703
+- https://www.tiktok.com/@dondada_1703
+- https://keybase.io/bylickilabs
 
 
 
