@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### Hi Githuber 👋
+----------
 - 🔭 Ich bin ein Softwareentwickler, der an vielen Projekten Arbeitet.
 - 🕵️‍♀️ Ich bringe es zu 100% zu Ende
 - 🧸 Ich bin sehr stolz auf meine Arbeiten
