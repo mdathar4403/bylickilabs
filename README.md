@@ -1,5 +1,6 @@
 ### Hi there 👋, 
 ### Thank you for visiting my profile
+Here are a few details about me...
 
 - 🔭 I'm a software developer working on many projects.
 - 🕵️‍♀️ I'll finish it 100%
