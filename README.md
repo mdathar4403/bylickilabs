@@ -8,9 +8,8 @@ Thank you for visiting my profile
 - 🧑‍💻 I love programming
 - 📫 To contact me use one of the links below
 - ⚡ Fun fact: I flew to the moon, Jupiter and Mars with my reflecting telescope
-### Private Website
-- https://www.bylickilabs.de
-### Other websites
+### Contact:
+### Websites:
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
 - https://www.twitch.tv/dondada1703
