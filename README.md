@@ -9,7 +9,6 @@ Thank you for visiting my profile
 - 📫 To contact me use one of the links below
 - ⚡ Fun fact: I flew to the moon, Jupiter and Mars with my reflecting telescope
 ### Contact:
-### Websites:
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
 - https://www.twitch.tv/dondada1703
