@@ -12,8 +12,8 @@ Thank you for visiting my Profile
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
 - https://twitter.com/DonDada_1703
-- https://telegram.org/Dondada_1703
 - https://www.twitch.tv/dondada1703
+- https://telegram.org/Dondada_1703
 - https://soundcloud.com/don-dada-1703
 - https://www.tiktok.com/@dodada_1703
 - https://www.instagram.com/Dondada_1703/
