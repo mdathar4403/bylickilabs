@@ -15,6 +15,7 @@ Thank you for visiting my Profile
 - https://www.twitch.tv/dondada1703
 - https://soundcloud.com/don-dada-1703
 - https://www.tiktok.com/@dodada_1703
+- https://telegram.org/Dondada
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
