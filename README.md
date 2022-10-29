@@ -17,6 +17,9 @@ Thank you for visiting my Profile
 - https://www.tiktok.com/@dodada_1703
 - https://soundcloud.com/don-dada-1703
 - https://www.instagram.com/Dondada_1703/
+### Telegram:
+![IMG_2070](https://user-images.githubusercontent.com/109308073/198848266-1206124b-a48c-45a6-86eb-9ae52700c868.JPG)
+
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
