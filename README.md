@@ -17,9 +17,7 @@ Thank you for visiting my Profile
 - https://soundcloud.com/don-dada-1703
 - https://www.instagram.com/Dondada_1703/
 ### Telegram:
-https://t.me/Bylickilabs or ![IMG_2070](https://user-images.githubusercontent.com/109308073/198848732-b24c14d0-f0ea-405b-9539-190db8a13cea.JPG)
-
-
+https://t.me/Bylickilabs
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
