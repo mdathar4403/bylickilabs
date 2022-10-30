@@ -21,13 +21,7 @@ https://t.me/Bylickilabs
 ### Programming Languages
 ![1](https://user-images.githubusercontent.com/109308073/198871729-33a2cb2f-64e0-48ab-b77c-71bbb24f7985.jpg)
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=yt9Ma1W_0wI" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=yt9Ma1W_0wI"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yt9Ma1W_0wI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
