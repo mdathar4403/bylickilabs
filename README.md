@@ -8,7 +8,7 @@
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ Fun fact: I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
-- [![GitHub Streak](https://streak-stats.demolab.com/?bylickilabs=DenverCoder1)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=bylickilabs)](https://git.io/streak-stats)
 ---
 ### Contact:
 - https://keybase.io/bylickilabs
