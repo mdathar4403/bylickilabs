@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-### Thank you for visiting my Profile: ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=dark&show_icons=true&hide_border=false&count_private=true) ![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=dark&hide_border=true) ![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&show_icons=true&hide_border=true&layout=compact)
+### Thank you for visiting my Profile:
 -----
 ### Here are a few Details About Me:
 - 🔭 I'm a software Developer working on many Projects.
