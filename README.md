@@ -24,7 +24,14 @@ https://t.me/Bylickilabs
 ### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 -----
 ### Programming Languages
-![1](https://user-images.githubusercontent.com/109308073/198871729-33a2cb2f-64e0-48ab-b77c-71bbb24f7985.jpg)
+- ![c-1](https://user-images.githubusercontent.com/109308073/199468170-da02b6c0-ff12-450a-bf1e-8b09d0d928a7.svg)
+- ![c--4](https://user-images.githubusercontent.com/109308073/199468236-00b41c17-b2c5-490d-a9c0-49ee3e1daa04.svg)
+- ![c](https://user-images.githubusercontent.com/109308073/199468255-c86c99a8-042a-4960-83f3-aaf0f3c8f4e6.svg)
+
+
+
+
+
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
