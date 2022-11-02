@@ -8,9 +8,6 @@ Thank you for visiting my Profile
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ Fun fact: I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
-### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
-### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
------
 ### Contact:
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
@@ -21,8 +18,10 @@ Thank you for visiting my Profile
 - https://www.instagram.com/Dondada_1703/
 ### Telegram:
 https://t.me/Bylickilabs
+### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
+### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
+-----
 ### Programming Languages
-
 ![1](https://user-images.githubusercontent.com/109308073/198871729-33a2cb2f-64e0-48ab-b77c-71bbb24f7985.jpg)
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
