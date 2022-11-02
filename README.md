@@ -31,7 +31,7 @@
 ### ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3?style=plastic)
 ### ![312977975_486721616854145_7197017966256577511_n](https://user-images.githubusercontent.com/109308073/199469829-9c655d8e-393a-4aee-820e-d93e03b42943.jpg)
 ![daftpunktocat-guy](https://user-images.githubusercontent.com/109308073/199532754-23e48446-365d-4b0d-b6f9-e04daabbc27d.gif)
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&show_icons=true)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
