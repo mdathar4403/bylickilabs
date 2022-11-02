@@ -1,7 +1,7 @@
 ### Hi there 👋, 
 ### Thank you for visiting my Profile:
 ### ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&count_private=true)
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&show_icons=true)
 -----
 ### Here are a few Details About Me:
 ### ![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
