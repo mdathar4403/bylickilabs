@@ -10,7 +10,6 @@ Thank you for visiting my Profile
 - ⚡ Fun fact: I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 ### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
-### ![Keybase ZEC](https://img.shields.io/keybase/zec/bylickilabs?style=social)
 -----
 ### Contact:
 - https://keybase.io/bylickilabs
