@@ -1,5 +1,6 @@
 ### Hi there 👋, 
 ### Thank you for visiting my Profile:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -----
 ### Here are a few Details About Me:
 - 🔭 I'm a software Developer working on many Projects.
