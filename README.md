@@ -1,4 +1,5 @@
-### Hi there 👋, ![Twitch Status](https://img.shields.io/twitch/status/dondada1703?style=social)
+### Hi there 👋, ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=DonDada_1703)
+![Twitch Status](https://img.shields.io/twitch/status/dondada1703?style=social)
 Thank you for visiting my Profile
 
 ### Here are a few Details About Me:
