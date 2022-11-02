@@ -12,7 +12,7 @@
 -----
 -----
 -----
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=10&theme=vue-dark&show_icons=true&show_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=8&theme=vue-dark&show_icons=true&show_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -----
 -----
 -----
