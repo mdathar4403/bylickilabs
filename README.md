@@ -1,7 +1,5 @@
 ### Hi there 👋, 
-### Thank you for visiting my Profile: 
-###### ![daftpunktocat-guy](https://user-images.githubusercontent.com/109308073/199514816-c602e146-2dd0-4c1d-824d-c8fefb05650f.gif)
-
+### Thank you for visiting my Profile:
 -----
 ### Here are a few Details About Me:
 - 🔭 I'm a software Developer working on many Projects.
