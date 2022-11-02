@@ -11,8 +11,9 @@
 - ⚡ Fun fact: I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 -----
 ### Bylickilabs Stats
+### ![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ### ![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)
-![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 -----
 ### Contact:
 - https://keybase.io/bylickilabs
