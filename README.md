@@ -23,7 +23,7 @@ https://t.me/Bylickilabs
 ### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 ### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 -----
-### Programming Languages
+
 ### ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3?style=plastic)
 ### ![312977975_486721616854145_7197017966256577511_n](https://user-images.githubusercontent.com/109308073/199469829-9c655d8e-393a-4aee-820e-d93e03b42943.jpg)
 
