@@ -10,7 +10,7 @@
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 
 
-### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=10&theme=vue-dark&show_icons=true&show_border=true&layout=compact) 
+### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=1&theme=vue-dark&show_icons=true&show_border=true&layout=compact) 
 
 ###    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=10&theme=vue-dark&show_icons=true&show_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
