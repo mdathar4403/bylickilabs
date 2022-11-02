@@ -8,14 +8,7 @@
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
-
-
-### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=2&theme=vue-dark&show_icons=true&show_border=true&layout=compact) 
-
-###    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=10&theme=vue-dark&show_icons=true&show_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=3&theme=vue-dark&show_icons=true&show_border=true&layout=compact) 
 ### ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ### ![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)
 -----
