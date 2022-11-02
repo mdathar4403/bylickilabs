@@ -1,4 +1,4 @@
-### Hi there 👋, ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDonDada_1703)
+### Hi there 👋, 
 Thank you for visiting my Profile
 
 ### Here are a few Details About Me:
@@ -11,7 +11,7 @@ Thank you for visiting my Profile
 ### Contact:
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
-- https://twitter.com/DonDada_1703
+- https://twitter.com/DonDada_1703 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDonDada_1703)
 - https://www.twitch.tv/dondada1703 ![Twitch Status](https://img.shields.io/twitch/status/dondada1703?style=social)
 - https://www.tiktok.com/@dodada_1703
 - https://soundcloud.com/don-dada-1703
