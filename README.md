@@ -1,15 +1,15 @@
 ### Hi there 👋, 
 ### Thank you for visiting my Profile:
-### ![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 -----
 ### Here are a few Details About Me:
-### ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 - 🔭 I'm a software Developer working on many Projects.
 - 🕵️‍♀️ I'll Finish it 100%
 - 🧸 I am very proud of my Work
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
+### ![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+### ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ### ![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)
 -----
 ### Contact:
