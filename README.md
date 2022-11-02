@@ -9,6 +9,8 @@ Thank you for visiting my Profile:
 - 📫 To contact me use one of the Links below
 - ⚡ Fun fact: I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 -----
+![programming](https://user-images.githubusercontent.com/109308073/199476594-385f3bec-192c-4e7a-b0d4-cf0a4c7d9a69.gif)
+-----
 ### Contact:
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
