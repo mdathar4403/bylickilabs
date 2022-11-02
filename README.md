@@ -19,7 +19,6 @@ Thank you for visiting my Profile
 ### Telegram:
 https://t.me/Bylickilabs
 ### Programming Languages
-https://camo.githubusercontent.com/87853395297101296ca7ba38a2ca1f671942d5e46157d3bc3a221b787277c952/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f696d73686177616e2f636f756e742e737667
 ![1](https://user-images.githubusercontent.com/109308073/198871729-33a2cb2f-64e0-48ab-b77c-71bbb24f7985.jpg)
 
 <!--
