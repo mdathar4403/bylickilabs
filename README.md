@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-### Thank you for visiting my Profile: 
+### Thank you for visiting my Profile: ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=dark&show_icons=true&hide_border=false&count_private=true)
 -----
 ### Here are a few Details About Me:
 - 🔭 I'm a software Developer working on many Projects.
