@@ -20,6 +20,7 @@ Thank you for visiting my Profile
 https://t.me/Bylickilabs
 -----
 ### Support
+### ![Twitch Status](https://img.shields.io/twitch/status/dondada1703?style=social)
 ### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 ### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 -----
