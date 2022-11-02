@@ -8,7 +8,7 @@ Thank you for visiting my Profile
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ Fun fact: I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
-![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
+- ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 ### Contact:
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
