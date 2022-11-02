@@ -18,7 +18,7 @@
 - https://soundcloud.com/don-dada-1703
 - https://www.instagram.com/Dondada_1703/
 ### Telegram:
-https://t.me/Bylickilabs
+- https://t.me/Bylickilabs
 ---
 ### Support
 ### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
