@@ -26,6 +26,8 @@
 ---
 ### Programming Languages
 ### ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3?style=plastic)
+![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 ### ![312977975_486721616854145_7197017966256577511_n](https://user-images.githubusercontent.com/109308073/199469829-9c655d8e-393a-4aee-820e-d93e03b42943.jpg)
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
