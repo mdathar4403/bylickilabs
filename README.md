@@ -8,9 +8,8 @@ Thank you for visiting my Profile:
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ Fun fact: I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
------
-### 
-- ![68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d70617465767326636f6c756d6e3d37](https://user-images.githubusercontent.com/109308073/199476697-5a03183f-9102-49a4-974f-79b4c7190ef4.svg)
+![68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d70617465767326636f6c756d6e3d37](https://user-images.githubusercontent.com/109308073/199476697-5a03183f-9102-49a4-974f-79b4c7190ef4.svg)
+---
 ### Contact:
 - https://keybase.io/bylickilabs
 - https://github.com/bylickilabs
@@ -21,11 +20,11 @@ Thank you for visiting my Profile:
 - https://www.instagram.com/Dondada_1703/
 ### Telegram:
 https://t.me/Bylickilabs
------
+---
 ### Support
 ### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 ### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
------
+---
 ### Programming Languages
 ### ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3?style=plastic)
 ### ![312977975_486721616854145_7197017966256577511_n](https://user-images.githubusercontent.com/109308073/199469829-9c655d8e-393a-4aee-820e-d93e03b42943.jpg)
