@@ -3,17 +3,14 @@
 ### ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 -----
 ### Here are a few Details About Me:
+### ![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 - 🔭 I'm a software Developer working on many Projects.
 - 🕵️‍♀️ I'll Finish it 100%
 - 🧸 I am very proud of my Work
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
-- ⚡ Fun fact: I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
------
-### Bylickilabs Stats
-### ![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+- ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ### ![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)
-
 -----
 ### Contact:
 - https://keybase.io/bylickilabs
