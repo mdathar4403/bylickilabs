@@ -1,7 +1,6 @@
+### <h3><p><a href="https://www.buymeacoffee.com/bylickilabs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bylickilabs" /></a></p><br><br>
 ### Hi there 👋, 
 ### Thank you for visiting my Profile: 
------
-### <h3><p><a href="https://www.buymeacoffee.com/bylickilabs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bylickilabs" /></a></p><br><br>
 -----
 ### Here are a few Details About Me:
 - 🔭 I'm a software Developer working on many Projects.
