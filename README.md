@@ -63,12 +63,48 @@
 This is a dropdown with text!
 </details></li>
 <li>
+  
+<details>
+<summary>Frontend Development</summary>
+This is a dropdown with text!
+</details></li>
+<li>
+  
+<details>
+<summary>Frontend Development</summary>
+This is a dropdown with text!
+</details></li>
+<li>  
 
+ <details>
+<summary>Frontend Development</summary>
+This is a dropdown with text!
+</details></li>
+<li>
+
+<details>
+<summary>Frontend Development</summary>
+This is a dropdown with text!
+</details></li>
+<li>  
+  
 <details>
 <summary>Backend Development</summary>
 This is a dropdown with text!
 </details></li></ul>
 </details>
+
+<details>
+<summary>Frontend Development</summary>
+This is a dropdown with text!
+</details></li>
+<li>
+  
+<details>
+<summary>Frontend Development</summary>
+This is a dropdown with text!
+</details></li>
+<li>  
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
