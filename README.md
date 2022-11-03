@@ -55,7 +55,7 @@
   
   
 <details>
-<summary>Example</summary>
+<summary>Languages, Dev Tools & More:</summary>
 <ul><li><details>
 <summary>Example</summary>
 This is a dropdown with text!
