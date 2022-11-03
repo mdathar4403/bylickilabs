@@ -2,13 +2,6 @@
 ### Hi there 👋, 
 ### Thank you for visiting my Profile: 
 -----
-###
-<details>
-<summary>test?</summary>
-<br>
-test erfolgreich.
-</details>
-###
 ### Here are a few Details About Me:
 - 🔭 I'm a software Developer working on many Projects.
 - 🕵️‍♀️ I'll Finish it 100%
