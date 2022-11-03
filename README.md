@@ -89,6 +89,18 @@ This is a dropdown with text!
 <li>  
   
 <details>
+<summary>Frontend Development</summary>
+This is a dropdown with text!
+</details></li>
+<li>
+  
+<details>
+<summary>Frontend Development</summary>
+This is a dropdown with text!
+</details></li>
+<li>  
+  
+<details>
 <summary>Backend Development</summary>
 This is a dropdown with text!
 </details></li></ul>
