@@ -30,8 +30,7 @@
 ### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 ---
 # SKILLS
-▼ HTML Code Powered by ► ©Bylickilabs
-<details>
+### <details>
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
 <details>
