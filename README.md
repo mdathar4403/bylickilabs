@@ -13,11 +13,6 @@
 ### ![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)
 ### <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a> </p>
 -----
-### Support
-### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
-### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
----  
------  
 # SKILLS & Contact
 <details>
 <summary>Languages, Dev Tools & More:</summary>
