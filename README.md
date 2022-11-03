@@ -64,7 +64,7 @@
 <li>a list!</li></ul>
 <li>a list!</li></ul>
 <li>a list!</li></ul>
-<li>a list!</li></ul>
+<li>a list!</li>
 </details> 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
