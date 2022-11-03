@@ -55,17 +55,12 @@
   
   
 <details>
-<summary>SKILLS</summary>
-<li>This dropdown contains</ul>
-<ul><li>a list!</ul>
-<ul><li>a list!</ul>
-<ul><li>a list!</ul>
-<ul><li>a list!</ul>
-<ul><li>a list!</ul>
-<ul><li>a list!</lul>
-<ul><li>a list!</ul>
-<ul><li>a list!</ul></li>
-</details> 
+<summary>Languages, Dev Tool & More:</summary>
+<ul><li>DROPDOWN</li>
+<li>a list!</li></ul>
+<li>a list!</li></ul>
+<li>a list!</li></ul>
+</details>
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
