@@ -69,9 +69,10 @@
 ###
 -----
 <details>
-<summary>Languages</summary>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-</details>  
+<summary>Example</summary>
+<pre>$ This dropdown contains<br>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) </pre>
+</details>
+
 -----
 ### ![312977975_486721616854145_7197017966256577511_n](https://user-images.githubusercontent.com/109308073/199576865-d36f2d83-49fa-42bd-b25b-9b80359beb6a.jpg)  
 -----
