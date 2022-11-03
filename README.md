@@ -55,8 +55,8 @@
   
   
 <details>
-<summary>Example</summary>
-<ul><li>This dropdown contains</li>
+<summary>SKILLS</summary>
+<ul><li>This dropdown contains</li></ul>
 <li>a list!</li></ul>
 <li>a list!</li></ul>
 <li>a list!</li></ul>
