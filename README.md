@@ -55,9 +55,8 @@
   
   
 <details>
-<summary>Languages, Dev Tool & More:</summary>
-<ul><li>DROPDOWN</li>
-<ul>a list!</li></ul>
+<summary>Languages, Dev & More:</summary>
+<ul><li>This dropdown contains</li>
 <li>a list!</li></ul>
 <li>a list!</li></ul>
 </details>
