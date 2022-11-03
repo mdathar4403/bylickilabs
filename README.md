@@ -59,7 +59,7 @@
 <ul><li>
   
 <details>
-<summary>Frontend Development</summary>
+<summary>Languages</summary>
 This is a dropdown with text!
 </details></li>
 <li>
@@ -71,37 +71,43 @@ This is a dropdown with text!
 <li>
   
 <details>
-<summary>Frontend Development</summary>
+<summary>Backend Development</summary>
 This is a dropdown with text!
 </details></li>
 <li>  
 
  <details>
-<summary>Frontend Development</summary>
+<summary>Mobile Development</summary>
 This is a dropdown with text!
 </details></li>
 <li>
 
 <details>
-<summary>Frontend Development</summary>
+<summary>Database</summary>
 This is a dropdown with text!
 </details></li>
 <li>  
   
 <details>
-<summary>Frontend Development</summary>
+<summary>Framework</summary>
 This is a dropdown with text!
 </details></li>
 <li>
   
 <details>
-<summary>Frontend Development</summary>
+<summary>Software</summary>
 This is a dropdown with text!
 </details></li>
 <li>  
   
 <details>
-<summary>Backend Development</summary>
+<summary>Game Engines</summary>
+This is a dropdown with text!
+</details></li>
+<li>    
+  
+<details>
+<summary>OTHER</summary>
 This is a dropdown with text!
 </details></li></ul>
 </details>
