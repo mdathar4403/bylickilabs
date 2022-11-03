@@ -57,7 +57,7 @@
 <details>
 <summary>Languages, Dev Tool & More:</summary>
 <ul><li>DROPDOWN</li>
-<li>a list!</li></ul>
+<ul>a list!</li></ul>
 <li>a list!</li></ul>
 <li>a list!</li></ul>
 </details>
