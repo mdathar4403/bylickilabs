@@ -28,8 +28,9 @@
 ### Support
 ### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 ### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
-- Coded by ©Bylickilabs
 ---
+- Coded by ©Bylickilabs
+
 <details>
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
