@@ -69,7 +69,7 @@
 </details></li></ul>
 </details>
 
-<details>![images](https://user-images.githubusercontent.com/109308073/199739117-cb5b2c75-5c3d-481e-8b18-115b0408d777.jpg)
+<details>(https://user-images.githubusercontent.com/109308073/199739117-cb5b2c75-5c3d-481e-8b18-115b0408d777.jpg)
 
 <summary>Contact Me</summary>
 <ul><li>
