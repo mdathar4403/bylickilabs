@@ -87,8 +87,6 @@
 <details>
 <summary>Contact ME:</summary>
 <ul><li>
-<details>
-<summary>Contact</summary>
 
 </details></li>
 <li> 
