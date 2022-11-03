@@ -56,11 +56,15 @@
   
 <details>
 <summary>Languages, Dev Tools & More:</summary>
-<ul><li><details>
+<ul><li>
+  
+<details>
 <summary>Frontend Development</summary>
 This is a dropdown with text!
 </details></li>
-<li><details>
+<li>
+
+<details>
 <summary>Backend Development</summary>
 This is a dropdown with text!
 </details></li></ul>
