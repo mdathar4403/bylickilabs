@@ -116,6 +116,7 @@
 <details>
 <summary>Instagram</summary>
 - https://www.instagram.com/Dondada_1703/
+</details></li>
 <li> 
 <details>
 <summary>Telegram</summary>
