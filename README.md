@@ -78,6 +78,69 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </details></li></ul>
 </details>
+  
+  
+  
+  
+  
+  
+<details>
+<summary>Languages, Dev Tools & More:</summary>
+<ul><li>
+<details>
+<summary>Contact</summary>
+
+</details></li>
+<li> 
+<details>
+<summary>Frontend Development</summary>
+
+</details></li>
+<li>  
+<details>
+<summary>Backend Development</summary>
+
+</details></li>
+<li>  
+<details>
+<summary>Mobile Development</summary>
+
+</details></li>
+<li>
+<details>
+<summary>Database</summary>
+
+</details></li>
+<li>
+<details>
+<summary>TikTok</summary>
+- https://www.tiktok.com/@dodada_1703
+</details></li>
+<li> 
+<details>
+<summary>SSoundcloud</summary>
+- https://soundcloud.com/don-dada-1703
+</details></li>
+<li> 
+<details>
+<summary>Instagram</summary>
+- https://www.instagram.com/Dondada_1703/
+</details></li>
+<li> 
+<details>
+<summary>Telegram</summary>
+- https://t.me/Bylickilabs
+</details></li></ul>
+</details>  
+  
+  - https://keybase.io/bylickilabs
+- https://github.com/bylickilabs
+- https://twitter.com/DonDada_1703
+- https://www.twitch.tv/dondada1703
+- https://www.tiktok.com/@dodada_1703
+
+  
+  
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
