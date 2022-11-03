@@ -108,8 +108,8 @@
 -----
 -----
 ### Support
-### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
-### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
+![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
+![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 -----  
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
