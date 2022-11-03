@@ -56,8 +56,14 @@
   
 <details>
 <summary>Example</summary>
-<ul><li>This dropdown contains</li>
-<li>a list!</li></ul>
+<ul><li><details>
+<summary>Example</summary>
+This is a dropdown with text!
+</details></li>
+<li><details>
+<summary>Example</summary>
+This is a dropdown with text!
+</details></li></ul>
 </details>
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
