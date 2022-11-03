@@ -85,7 +85,7 @@
   
   
 <details>
-<summary>Languages, Dev Tools & More:</summary>
+<summary>Contact Me:</summary>
 <ul><li>
 <details>
 <summary>Contact</summary>
@@ -93,23 +93,23 @@
 </details></li>
 <li> 
 <details>
-<summary>Frontend Development</summary>
-
+<summary>Keybase</summary>
+- https://keybase.io/bylickilabs
 </details></li>
 <li>  
 <details>
-<summary>Backend Development</summary>
-
+<summary>Github</summary>
+- https://github.com/bylickilabs
 </details></li>
 <li>  
 <details>
-<summary>Mobile Development</summary>
-
+<summary>Twitter</summary>
+- https://twitter.com/DonDada_1703
 </details></li>
 <li>
 <details>
-<summary>Database</summary>
-
+<summary>Twitch</summary>
+- https://www.twitch.tv/dondada1703
 </details></li>
 <li>
 <details>
@@ -118,7 +118,7 @@
 </details></li>
 <li> 
 <details>
-<summary>SSoundcloud</summary>
+<summary>Soundcloud</summary>
 - https://soundcloud.com/don-dada-1703
 </details></li>
 <li> 
@@ -131,13 +131,8 @@
 <summary>Telegram</summary>
 - https://t.me/Bylickilabs
 </details></li></ul>
-</details>  
-  
-  - https://keybase.io/bylickilabs
-- https://github.com/bylickilabs
-- https://twitter.com/DonDada_1703
-- https://www.twitch.tv/dondada1703
-- https://www.tiktok.com/@dodada_1703
+</details>
+
 
   
   
