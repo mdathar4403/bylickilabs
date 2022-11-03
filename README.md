@@ -14,22 +14,11 @@
 ### ![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)
 ### <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a> </p>
 -----
-### Contact:
-- https://keybase.io/bylickilabs
-- https://github.com/bylickilabs
-- https://twitter.com/DonDada_1703
-- https://www.twitch.tv/dondada1703
-- https://www.tiktok.com/@dodada_1703
-- https://soundcloud.com/don-dada-1703
-- https://www.instagram.com/Dondada_1703/
-### Telegram:
-- https://t.me/Bylickilabs
----
 ### Support
 ### ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 ### ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 ---
-# SKILLS
+# SKILLS & Contact
 <details>
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
