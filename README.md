@@ -55,16 +55,9 @@
   
   
 <details>
-<summary>Languages, Dev & More:</summary>
+<summary>Example</summary>
 <ul><li>This dropdown contains</li>
-  </summary><li>a list!</li></ul>
-  </summary><li>a list!</li></ul>
-  </summary><li>a list!</li></ul>
-  </summary><li>a list!</li></ul>
-  </summary><li>a list!</li></ul>
-  </summary><li>a list!</li></ul>
-  </summary><li>a list!</li></ul>
-  </summary><li>a list!</li></ul>
+<li>a list!</li></ul>
 </details>
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
