@@ -1,6 +1,5 @@
-### Hi there 👋, 
+### Hi there 👋, [![](https://visitcount.itsvg.in/api?id=bylickilabs&icon=0&color=0)](https://visitcount.itsvg.in)
 ### Thank you for visiting my Profile: ---
-[![](https://visitcount.itsvg.in/api?id=bylickilabs&icon=0&color=0)](https://visitcount.itsvg.in)
 -----
 ### Here are a few Details About Me:
 - 🔭 I'm a software Developer working on many Projects.
