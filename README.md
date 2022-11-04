@@ -70,42 +70,42 @@
 <ul><li>
 <details>
 <summary>Keybase</summary>
-- https://keybase.io/bylickilabs
+© https://keybase.io/bylickilabs
 </details></li>
 <li> 
 <details>
 <summary>Github</summary>
-- https://github.com/bylickilabs
+© https://github.com/bylickilabs
 </details></li>
 <li>  
 <details>
 <summary>Twitter</summary>
-- https://twitter.com/DonDada_1703
+© https://twitter.com/DonDada_1703
 </details></li>
 <li>  
 <details>
 <summary>Twitch</summary>
-- https://www.twitch.tv/dondada1703
+© https://www.twitch.tv/dondada1703
 </details></li>
 <li>
 <details>
 <summary>TikTok</summary>
-- https://www.tiktok.com/@dodada_1703
+© https://www.tiktok.com/@dodada_1703
 </details></li>
 <li>
 <details>
 <summary>soundcloud</summary>
-- https://soundcloud.com/don-dada-1703
+© https://soundcloud.com/don-dada-1703
 </details></li>
 <li> 
 <details>
 <summary>Instagram</summary>
-- https://www.instagram.com/Dondada_1703/
+© https://www.instagram.com/Dondada_1703/
 </details></li>
 <li> 
 <details>
 <summary>Telegram</summary>
-- https://t.me/Bylickilabs  
+© https://t.me/Bylickilabs  
 </details></li></ul>
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
