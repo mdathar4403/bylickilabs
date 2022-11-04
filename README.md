@@ -18,13 +18,13 @@
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 - ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 # SKILLS & Contact
-# |[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
+- |[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
 |---|---|---| 
-# |[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
+- |[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
 |---|---|---| 
-# |[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
+- |[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
 |---|---|---| 
-# |[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
+- |[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
 |---|---|---|
 ### (or) via► ▼Dropdown▼
 <details>
