@@ -1,7 +1,13 @@
 ### Hi there 👋, 
 ### Thank you for visiting my Profile: 
 |![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102033-41038eb2-92fe-4ff3-b711-23bbae4cbdcb.gif)|
-|---|
+|---| ### Here are a few Details About Me:
+- 🔭 I'm a software Developer working on many Projects.
+- 🕵️‍♀️ I'll Finish it 100%
+- 🧸 I am very proud of my Work
+- 🧑‍💻 I love Programming
+- 📫 To contact me use one of the Links below
+- ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 -----
 ### Here are a few Details About Me:
 - 🔭 I'm a software Developer working on many Projects.
