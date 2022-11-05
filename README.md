@@ -23,7 +23,6 @@
 ### Support:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 - ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
----
 ### Skills & Interests:  
 ► Languages
 
