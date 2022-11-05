@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-### Thank you for visiting my Profile: [![](https://visitcount.itsvg.in/api?id=bylickilabs&icon=0&color=0)](https://visitcount.itsvg.in)
+### Thank you for visiting my Profile: ![](https://komarev.com/ghpvc/?bylickilabs=your-github-username&color=grey&style=plastic)
 ### ![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102033-41038eb2-92fe-4ff3-b711-23bbae4cbdcb.gif)
 ---
 ### Here are a few Details About Me:
