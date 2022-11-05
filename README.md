@@ -1,4 +1,6 @@
-![bylickilabs gif](https://user-images.githubusercontent.com/109308073/200101874-3e99bcce-5724-488f-b64e-b21f77f8c65a.gif)
+<p align="center">
+  <img width="300" src="![bylickilabs gif](https://user-images.githubusercontent.com/109308073/200101874-3e99bcce-5724-488f-b64e-b21f77f8c65a.gif)">
+</p>
 
 ### Hi there 👋, 
 ### Thank you for visiting my Profile:
