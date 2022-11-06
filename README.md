@@ -17,7 +17,7 @@
 
 ![github-user-contribution](https://user-images.githubusercontent.com/109308073/200136854-36889630-86c6-4fb8-b261-976b6ac08274.svg)
 
-### ✍️ Random Dev Quote
+> **✍️ Random Dev Quote**:
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
 
