@@ -25,7 +25,8 @@
 |<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a></p>|
 |---|
 
-### Support:
+> **SUPPORT**:
+
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 - ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 ### Skills & Interests:  
@@ -76,7 +77,8 @@
 ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)|
 |---|
 ---
-### (or) via► ▼Dropdown▼
+> **(or) via► ▼DropDown▼**:
+
 <details>
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
