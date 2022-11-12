@@ -1,4 +1,5 @@
 ### Hi there 👋, 
+![Trophy](https://dynamic-badges.maxalpha.repl.co/score/Bylickilabs)
 <a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
 <a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
 <a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
