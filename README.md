@@ -1,9 +1,4 @@
 ### Hi there 👋, 
-<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
-<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
-<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
-<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
-<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
 ### Thank you for visiting my Profile: ![](https://komarev.com/ghpvc/?username=bylickilabs&color=grey&style=plastic)
 |![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102033-41038eb2-92fe-4ff3-b711-23bbae4cbdcb.gif)|
 |---|
