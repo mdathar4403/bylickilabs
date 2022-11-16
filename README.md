@@ -25,6 +25,7 @@
 |---|---|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
 |---|
+---
 > **STATS**:
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&langs_count=10)
