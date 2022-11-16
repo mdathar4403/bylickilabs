@@ -4,8 +4,8 @@
 |---|
 ---
 > ***Stats Update*** "16.11.2022" "15:00"
+---
 > ***New Repo*** "Multi - Generator" [HERE](https://github.com/bylickilabs/Multi-Generator) | Date: 13.11.2022 | ***Online Virus Check*** [HERE](https://www.virustotal.com/gui/url/67164087cd85262d94241eb483c92bcfb87231850656fdef0e3e7c1a43026c01)
-
 ---
 > ***Here are a few Details About Me***:
 - 🔭 I'm a software Developer working on many Projects.
