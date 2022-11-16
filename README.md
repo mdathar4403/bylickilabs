@@ -30,7 +30,9 @@
 |---|
 ---
 > **✍️ Random Dev Quote**:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
+---
+|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
+|---|
 ---
 |<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a></p>|
 |---|
