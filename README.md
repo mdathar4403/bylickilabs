@@ -2,7 +2,7 @@
 ### Thank you for visiting my Profile: ![](https://komarev.com/ghpvc/?username=bylickilabs&color=grey&style=plastic)
 |![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102033-41038eb2-92fe-4ff3-b711-23bbae4cbdcb.gif)|
 |---|
-[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 > ***Stats - Digital Business Card Update*** "16.11.2022" "3:00 PM"
 
 [---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -32,7 +32,6 @@
 |---|
 ---
 > **✍️ Random Dev Quote**:
-[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
 ---
