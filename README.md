@@ -2,11 +2,11 @@
 ### Thank you for visiting my Profile: ![](https://komarev.com/ghpvc/?username=bylickilabs&color=grey&style=plastic)
 |![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102033-41038eb2-92fe-4ff3-b711-23bbae4cbdcb.gif)|
 |---|
----
+[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 > ***Stats - Digital Business Card Update*** "16.11.2022" "3:00 PM"
 ---
 > ***New Repo*** "Multi - Generator" [HERE](https://github.com/bylickilabs/Multi-Generator) | Date: 13.11.2022 | ***Online Virus Check*** [HERE](https://www.virustotal.com/gui/url/67164087cd85262d94241eb483c92bcfb87231850656fdef0e3e7c1a43026c01)
----
+[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 > ***Here are a few Details About Me***:
 - 🔭 I'm a software Developer working on many Projects.
 - 🕵️‍♀️ I'll Finish it 100%
@@ -15,15 +15,15 @@
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 > **STATS**:
----
+[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|
 |---|---|---|---|
----
+[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 |![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&langs_count=10)|[](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
 |---|---|---|---|
 
 > **Binary Inf0 Encrypted**:
----
+[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 1̴̞̏1̵͈͐1̵͔̆0̵̡͐0̸̣̂0̸̣̍1̵̨̚0̸̦͌ ̶̛͉1̴̹͒0̷̩͆0̸̣̎0̸̢̾0̷̙̈́0̷̟̚0̶̩͗0̶̠̔ ̵̲̽1̷̺̉0̷̙̅0̴̥̈1̴́͜1̶̠̇1̶͉̿1̸̗͊0̵̎͜ ̶̠͆0̴̖͝1̸̗͝0̶̡̌1̴̺́0̵̬̇1̴̢̽0̵̢̋0̷̖̀ ̴̢́0̸̹̓1̸͇̿1̷̫̔0̸̻̆0̷̬̇1̴̻̋0̸̯̈́1̵̥̆ ̸͎̿0̶̡̕1̴͇͋1̸̘̅0̷̗͋0̷̩̈0̶̍͜1̶̯̅1̷͈͒ ̸̝̿0̶̀͜1̷̠̈́1̵̲̕0̶͕͝1̸̬͋0̸̣̓0̵̢̈0̸̛͓ ̴̰͛0̴̪̾1̸͍̾1̵̰̕0̸̩̎1̵̘͒1̷̨̋1̶̺͒0̷̺̂ ̵̟̐0̶͉̆1̶̡̔1̸̰̏0̸͇͌1̶̛̙1̷̜̓1̵͚̉1̷̛͜ ̴̪̔0̵͈̀1̵͓̚1̴͉̓0̸̻̾1̸̭̚1̵̻͑0̴̤̀0̵̟̈́ ̸̫͐0̷̼͛1̴̟̓1̸̯̔0̸̙͆1̵͉͑1̵̟͂1̸͚̌1̵̨̾ ̴̰̀0̴̦͗1̶̮͘1̴̦̅0̸̩̚0̸̳̅1̶̟̀1̸͋͜1̷̜̐ ̵̮̌0̵̺͐1̴̭̽1̴̖̊0̴̜̐1̴̪̂0̷͇͘0̷͙̉1̴͇̈́ ̷̹͆0̵͓͌1̶̝̌1̸̺̿0̴̱́0̸̣̐1̸͇̎0̴̯̿1̶̟̓ ̷̥́0̷̰̀0̷͈̆1̸̳̆0̵̫̌0̶͖͝0̷͙̉0̸̥̕0̶̟̈́ ̸̢̄0̵͔̈́1̸͉̀1̷̻́0̴̜̎1̸̲̈́1̵̫͋0̵̛̫1̶̱̌ ̸̯̋0̷̥͋1̴̛̱1̴̳̓1̶͉́0̶̪͗1̷̦͋0̵̠̃1̴͔̈́ ̵̦̅1̵̳̍1̴͓̚0̸̳̐0̶̢̒0̶̦̾0̵͍̿1̴̢̉1̵̜͆ ̸͎̈́1̷͓͂0̷̲̎0̷̮͌1̵̠̆1̶̼̾1̷̧̊1̶̰̎1̶̻̓ ̵̦̐0̷̳͠0̷̙͠1̷̧̌0̴̗͑0̸͇̓0̵̠̆0̴͓͂0̶̛̙ ̷͖͐0̸͋ͅ1̸̹̿1̶͙̅0̸̟͝1̸͔͂1̶̪̏0̷̤̉1̶̰̔ ̴̤̆0̶͎͒1̴̻̑1̸͎̂0̵̠̌0̷̼̃0̴̡̌0̴̱̑1̷̲̍ ̶̼̀0̸̭̍1̷͖͑1̸͔̚0̷̯̾1̶̠̄1̴̰̈́1̷͎̄0̶̻̋ ̵͇̿0̷̀͜0̶̢͠1̷͎̀0̸̩͌0̶͔̋0̶̥̀0̶̺́0̸͓̊ ̷̭̽0̷̛̜1̸͇̋1̷̠̈́0̷͇͒1̶̯̕1̶͇͊1̶̬̃0̸̡̿ ̸̝͊0̸̑ͅ1̵͔̌1̴̔ͅ0̶̦̉1̴͖̏0̸͇̀0̴̦̇1̴̫͑ ̴̛̟0̵̹͗1̶̪̽1̴̪̕0̴̲̌0̵̗̆0̷͚͠1̸̙̌1̴̡͠ ̴͙͘0̵̓ͅ1̸͍̏1̸̫̎0̸͓̋1̸̫̏0̴̪̌0̷̟̅0̸͚͋ ̷͓̐0̸̡̈́1̴͖̃1̷̠͝1̷̝̈́0̸͍̋1̸̞̊0̷̳͊0̷͓͘ ̸̳̃0̸̞̈́0̷̪̈́1̴͇̔0̵̜̑0̵͔̽0̵̠́0̷̝̏0̸̪̿ ̶̪̄0̴̼͆1̸͓͗1̶̦͋0̴̧̊0̸̻̅0̶̧̀1̴̗̓0̴̟͠ ̶̛̼0̶͖̂1̴͉̋1̵̤̐0̷̫̾0̷͇̇1̵̬͝0̵̣̒1̴̩͊ ̸̹̿0̸͍̏1̴̫̒1̵͍̋0̸̟̆1̸̫̈́0̴͇͝1̷͕̿1̸̩͝ ̶̩̓1̶̓ͅ1̸̝̃0̸̬̎0̸͔͑0̶̟̑0̶͕̔1̵̘͠1̵̰̄ ̷̦̈́1̸̦̒0̴̟͗1̵̠̇0̶͙̎0̶̮͠1̵̖͠0̸͖̒0̸̰̂ ̸̰́0̷̳͐1̸̩̚1̸̜͝0̴̯͠1̸͖̕1̴̖͋0̵̝͛1̵̥͘ ̷̮́0̵̭̈́1̸̞́1̷̯͛1̵̣̐0̸̣͑0̸̥̑0̷̤͘0̷͆͜ ̴̱̐0̸̇͜1̷̣̒1̵̗̌0̴̺͗0̵̰̑1̷̩͠1̴̼̋0̵̫̿ ̵̥̈0̷̼̎1̷̻̄1̴̺͊0̸̪͘0̶̇͜1̴̫̚0̷͓͐1̸̧̓ ̶̞̃0̵̯̀1̴̙̿1̸̬̾0̶͇͑1̶̲͂1̶͉̌1̵͖͆0̵̗̐ ̶̥̍0̵̲̄0̷̩̏1̵͇̔0̵̤̌1̵̤̽1̶̹̎0̵̟̑0̸͓̈ ̴̙́0̴̰̊0̴̟̚1̸̞̑0̴̘͗0̴̬̿0̸͇̄0̷̠̿0̵̤̎ ̷̝̐0̷͙͐1̸͓̋1̴̠͌1̵̭̈́0̸̗̄0̶̠̐1̶͕̾1̴͕̋ ̶͇͐0̶̦̈́1̶̱̈1̷͎̀0̶͙͋1̷͔͋1̸̬̿1̷͉̑1̸̥͋ ̵̛̫0̴̝̉1̶̙̽1̸̯̉0̸̢̂1̶͚́1̴̮̾1̷̮̔0̷͓̿ ̶̱̍0̵̞̽1̷͉̈́1̶̗̇0̴̢́0̸̥̌1̵̆͜0̷͎͆0̷̫̒ ̴̩̕0̵̳̍1̴̍͜1̴̠͊0̴̟̂0̷͇̎1̸̭̏0̷̛̹1̴̜̓ ̵̪̏0̴̥̔1̴̢̂1̶̤͠1̵͎̒0̷̫̐0̴̨̒1̸̱̂0̷̻̂ ̶̲͠0̸̳̈́1̵̮̽1̶̘̂0̷̫͂1̶̧̆1̵͉̀1̵̥̓0̷̪̽ ̵̝̿0̵͚̾0̵̪̂1̸͇̄0̵̩͑0̵̘̐0̶̞̎0̸̠̌0̶͎̉ ̷͍͘0̴̋ͅ1̸̘̊1̶̨̊0̴̼̈́0̴́͜0̸̗̍1̸͉̎0̷̮͐ ̴̗́0̶̥̔1̶̳̉1̶̞̕0̸̙̃0̵̮͗1̴̜̈́0̸̛̟1̴̦͆ ̶̠̂0̸̡͘1̷̲́1̷͚̊0̷̘̏1̷̢̑0̴̬̀0̷͈̀0̸̤̍ ̴̱̌0̶͍͛1̵̲͝1̴̩͂0̵̣̋0̴̤̕1̷̖͋0̵͍͂1̶̝̋ ̷̪́0̷̡̕1̵͖͌1̷̗́1̷̲̾0̷̲̋0̵̪̎1̵̥̀0̵̬̓ ̵̳͐0̵̮̒1̷̯̾1̸͓̓1̵͍͂0̷̧̆0̴̼̉1̷̬̈́0̷̔ͅ ̸̪͒0̴̩̓1̶̘̉1̵̝̎1̶͉̈́0̸̻̒0̶͈̍1̶͖́1̶̝̓ ̶̡̂0̸̠̉1̴͖͒1̴̺͊0̸̿ͅ0̴̡̅0̴̧̎1̶̪̉1̵͇͘ ̸̮̄0̷̫͗1̸̡͊1̴̰́0̶̝̓1̶̧̌0̴̋ͅ0̴̈́͜0̸̡̃ ̸̙͝0̵̗͋1̸̙̆1̴̛̺0̶̹͊0̷̰̓1̶̤̒0̷̗́1̵͙̿ ̷̭̓0̸̡̆1̸̤̌1̴̺̉0̵̱̅1̷̻͛1̷̖́1̶̰̀0̶̼͘ ̷͉̓0̴̯͛0̷͍̚1̵͉̋0̵̨̈́1̸͕͠1̷̱̓1̷̩̍0̸͓̈́ ̷̲̉0̴̺̌0̶̰̀1̸̪̋0̴̮́0̸̤͒0̵͉̆1̶̺̕0̷̡́|
 ---
 |![github-user-contribution](https://user-images.githubusercontent.com/109308073/200136854-36889630-86c6-4fb8-b261-976b6ac08274.svg)
@@ -33,7 +33,7 @@
 ---
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
----
+[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 |<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a></p>|
 |---|
