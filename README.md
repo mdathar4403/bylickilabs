@@ -34,6 +34,11 @@
 |---|
 ---
 
+> **SUPPORT**:
+
+- ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
+- ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
+
 > **(SKILLS) via► ▼DropDown▼**:
 
 <details>
@@ -128,11 +133,6 @@
 © https://t.me/Bylickilabs  
 </details></li></ul>
   
-> **SUPPORT**:
-
-- ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
-- ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
