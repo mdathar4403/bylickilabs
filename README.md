@@ -15,9 +15,12 @@
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ---
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|
+|---|---|---|---|
+---
+|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
 ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
-|---|---|---|---|---|---|
+|---|---|---|
 ---
 |![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)|
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&langs_count=10)|
