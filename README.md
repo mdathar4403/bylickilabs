@@ -148,7 +148,7 @@
 </details></li></ul>
 </details>
 
-> **(INF0) via► ▼DropDown▼**:
+### (INF0) via► ▼DropDown▼**:
 
 <details>
 <summary>Binary Inf0 Encrypted</summary>
@@ -194,7 +194,7 @@
 </details></li></ul>
 
   
-> **(Contact) via► ▼DropDown▼**:
+### (Contact) via► ▼DropDown▼**:
   
 <details>
 <summary>Contact Me</summary>
