@@ -21,6 +21,7 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
 ![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 |---|---|
+---
 |![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=true)|
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&langs_count=10)|
 |---|---|
