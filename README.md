@@ -20,6 +20,7 @@
 |---|---|---|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 ---
+> **INF0► ▼DropDown▼**:
 <details>
 <summary>Binary Inf0 Encrypted</summary>
 <ul><li>
