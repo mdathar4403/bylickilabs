@@ -1,5 +1,5 @@
 ### Hi there :octocat: 
-### Thank you for visiting my Profile: |![](https://komarev.com/ghpvc/?username=bylickilabs&color=grey&style=plastic)|
+### Thank you for visiting my Profile: ![](https://komarev.com/ghpvc/?username=bylickilabs&color=grey&style=plastic)|
 |---|
 > ***Stats - Digital Business Card Update*** "18.11.2022" "6:00 PM"
 
