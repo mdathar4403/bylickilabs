@@ -12,6 +12,7 @@
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
+---
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
 |---|---|---|
