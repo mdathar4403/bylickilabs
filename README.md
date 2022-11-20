@@ -1,7 +1,6 @@
 |BD0S - Bylickilabs-Denial-of-Service \ Testing your Private Website, and Home Server|
-|---|
-|I.) BDOS-Tool [REPO](https://github.com/bylickilabs/BD0S)|II.) BD0S-Flooder [Repo](https://github.com/bylickilabs/BDoS_Fl00der)|
-|---|---|
+|Tool #1.) BDOS-Tool [REPO](https://github.com/bylickilabs/BD0S)|Tool #II.) BD0S-Flooder [Repo](https://github.com/bylickilabs/BDoS_Fl00der)|
+|---|---|---|
 
 |***Help me get Stars, answer requests so I can help you.*** [ISSUE](https://github.com/bylickilabs/Multi-Generator/issues/1)|
 |---|
