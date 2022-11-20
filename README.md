@@ -29,7 +29,7 @@
 ---
 > **🐍 Activity Snake**:
 
-|[Acivity](https://user-images.githubusercontent.com/109308073/202896023-75b24c1d-75e9-422d-91bd-80aa375bbba1.svg)
+|![Acitivity](https://user-images.githubusercontent.com/109308073/202896197-6966bcb5-7fa8-4fc3-8aa2-eef3a1321788.svg)|
 |---|
 ---
 > **✍️ Random Dev Quote**:
