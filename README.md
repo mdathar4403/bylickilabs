@@ -29,7 +29,8 @@
 ---
 > **🐍 Activity Snake**:
 
-|![github-user-contribution](https://user-images.githubusercontent.com/109308073/200136854-36889630-86c6-4fb8-b261-976b6ac08274.svg)
+|![github-user-contribution](![github-user-contribution](https://user-images.githubusercontent.com/109308073/202896023-75b24c1d-75e9-422d-91bd-80aa375bbba1.svg)
+)
 |---|
 ---
 > **✍️ Random Dev Quote**:
