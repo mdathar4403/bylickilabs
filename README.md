@@ -1,4 +1,4 @@
-|Help me get stars, answer requests so I can help you. [ISSUE](https://github.com/bylickilabs/Multi-Generator/issues/1)|
+|Help me get Stars, answer requests so I can help you. [ISSUE](https://github.com/bylickilabs/Multi-Generator/issues/1)|
 |---|
 
 |@bylickilabs' 2022 GitHub Skyline [HERE](https://skyline.github.com/bylickilabs/2022)|New Repo - Multi Generator [HERE](https://github.com/bylickilabs/Multi-Generator)|Multi Generator - Online Virus Check [HERE](https://www.virustotal.com/gui/url/67164087cd85262d94241eb483c92bcfb87231850656fdef0e3e7c1a43026c01)|
