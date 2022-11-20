@@ -8,9 +8,6 @@
 |![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|
 |---|
 
-|@bylickilabs' 2022 GitHub Skyline [HERE](https://skyline.github.com/bylickilabs/2022)|New Repo - Multi Generator [HERE](https://github.com/bylickilabs/Multi-Generator)|Multi Generator - Online Virus Check [HERE](https://www.virustotal.com/gui/url/67164087cd85262d94241eb483c92bcfb87231850656fdef0e3e7c1a43026c01)|
-|---|---|---|
-
 ### Hi there :octocat: 
 ### Thank you for visiting my Profile: 
 > ***Here are a few Details About Me***: 🧑‍💻 🖧
@@ -20,7 +17,11 @@
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
+
+|@bylickilabs' 2022 GitHub Skyline [HERE](https://skyline.github.com/bylickilabs/2022)|New Repo - Multi Generator [HERE](https://github.com/bylickilabs/Multi-Generator)|Multi Generator - Online Virus Check [HERE](https://www.virustotal.com/gui/url/67164087cd85262d94241eb483c92bcfb87231850656fdef0e3e7c1a43026c01)|
+|---|---|---|
 ---
+
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
 |---|---|---|
