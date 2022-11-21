@@ -1,7 +1,6 @@
-### Hi there :octocat: 
+### Hi there :octocat: ![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)
 ### Thank you for visiting my Profile: 
 > ***Here are a few Details About Me***: 🧑‍💻 🖧
-- ![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)
 - 🔭 I'm a software Developer working on many Projects.
 - 🕵️‍♀️ I'll Finish it 100%
 - 🧸 I am very proud of my Work
