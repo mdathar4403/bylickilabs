@@ -30,8 +30,7 @@
 ---
 > **🐍 Activity Snake**:
 
-|![bylickilabs](https://user-images.githubusercontent.com/109308073/203291895-ff504c0c-5876-4592-9840-9e4f51203b67.svg)
-|
+|[bylickilabs]![bylickilabs](https://user-images.githubusercontent.com/109308073/203291895-ff504c0c-5876-4592-9840-9e4f51203b67.svg)|
 |---|
 ---
 > **✍️ Random Dev Quote**:
