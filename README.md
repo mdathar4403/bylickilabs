@@ -44,7 +44,7 @@
 |<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a></p>|
 |---|
 
-> **🫶 SUPPORT**:
+> **😶‍🌫️ SUPPORT**:
 
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 - ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
