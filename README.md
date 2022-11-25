@@ -2,16 +2,14 @@
 ### Thank you for visiting my Profile: ![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)
 
 > ***Here are a few Details About Me***: 🧑‍💻 🖧
-
+- |[Keybase Profile](https://keybase.io/bylickilabs)|[Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|
+|---|---|---|
 - 🔭 I'm a software Developer working on many Projects.
 - 🕵️‍♀️ I'll Finish it 100%
 - 🧸 I am very proud of my Work
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
-
-|[Keybase Profile](https://keybase.io/bylickilabs)|[Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|
-|---|---|---|
 
 |![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|
 |---|
