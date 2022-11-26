@@ -33,7 +33,7 @@
 ---
 > **🐍 Activity Snake**:
 
-|![bylickilabs](https://user-images.githubusercontent.com/109308073/203937362-67863f3c-70c7-40ce-9500-7116733f804d.svg#gh-dark-mode-only)|
+|![bylickilabs](https://user-images.githubusercontent.com/109308073/203937362-67863f3c-70c7-40ce-9500-7116733f804d.svg&gh-dark-mode-only)|
 |---|
 ---
 
