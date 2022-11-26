@@ -33,8 +33,7 @@
 ---
 > **🐍 Activity Snake**:
 
-|![bylickilabs](https://github.com/{{bylickilabs}}/{{bylickilabs}}/blob/output/github-contribution-grid-snake.svg)|
-|---|
+![Snake animation](https://github.com/{{bylickilabs}}/{{bylickilabs}}/blob/output/github-contribution-grid-snake.svg)
 ---
 > **✍️ Random Dev Quote**:
 
