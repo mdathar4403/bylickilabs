@@ -36,9 +36,6 @@
 |![bylickilabs](https://user-images.githubusercontent.com/109308073/203937362-67863f3c-70c7-40ce-9500-7116733f804d.svg#gh-dark-mode-only)|
 |---|
 ---
-|![github-snake-dark.svg](https://user-images.githubusercontent.com/109308073/203937362-67863f3c-70c7-40ce-9500-7116733f804d.svg#gh-dark-mode-only)|
-|---|
----
 > **✍️ Random Dev Quote**:
 
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
